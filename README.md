@@ -1,9 +1,10 @@
 # RSS Aggregator: Go, PostgresSQL
 
 Key Features:
-- Auth with api keys
 - REST api 
-- RSS Feed scraper
+- Authentication using api keys
+- RSS feed web scraper
+- PostgresSQL database
 
 
 ### Cloning the repository
@@ -17,7 +18,8 @@ git clone https://github.com/EthanHosier/rssagg.git
 
 ```js
 PORT=
-DB_URL=
+DB_URL=postgresql://{username}:{password}@{host}:{port}/{database_name}
+
 ```
 
 ### Start the app
