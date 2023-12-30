@@ -1,7 +1,7 @@
 # RSS Aggregator: Go, PostgresSQL
 
 Key Features:
-- REST api 
+- REST API 
 - Authentication using api keys
 - RSS feed web scraper
 - PostgresSQL database
