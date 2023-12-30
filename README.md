@@ -2,7 +2,7 @@
 
 Key Features:
 - REST API 
-- Authentication using api keys
+- Authentication using api keys and middleware
 - RSS feed web scraper
 - PostgresSQL database
 
